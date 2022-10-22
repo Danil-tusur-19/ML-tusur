@@ -1,1 +1,1 @@
-# ML-tusur Ivanov Danil 1A0
+# ML-tusur Ivanov Danil
